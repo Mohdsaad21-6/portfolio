@@ -1,7 +1,7 @@
 
 import './App.css'
 import About from './components/About'
-import Contact from './components/contact'
+import Contact from './components/Connect'
 import MainPage from './components/Main'
 import Navbar from './components/Navbar'
 import ProjectSection from './components/Projects'
